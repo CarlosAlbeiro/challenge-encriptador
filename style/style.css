@@ -1,13 +1,14 @@
 *{
     padding: 0;
     margin: 0;
-    font-family: "New Amsterdam", sans-serif;
-    font-style: normal;
+  
 }
 
 .titulo{
     display: flex;
     justify-content: center;
+    font-family: "New Amsterdam", sans-serif;
+    font-style: normal;
 }
 
 textarea{
